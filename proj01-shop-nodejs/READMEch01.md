@@ -34,11 +34,11 @@ Node.js 설치는 스프링 부트의 JDK 설치와 비슷한 단계입니다.
       "name": "proj01-shop-nodejs",
       "version": "1.0.0",
       "main": "index.js",
-      **"scripts": {
+      "scripts": {
         "dev": "nodemon app.js",
         "start": "node app.js",
         "test": "echo \"Error: no test specified\" && exit 1"
-      },**
+      },
       "keywords": [],
       "author": "",
       "license": "ISC",
